@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GittestOneApplication {
 
 	public static void main(String[] args) {
+System.out.println("11111");
 		SpringApplication.run(GittestOneApplication.class, args);
 	}
 
